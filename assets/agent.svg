@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="nidhi.agent console: it loads 3 of 412 tools, reads Nidhi's profile, projects and principles with sources, asks for confirmation before writing her introduction, and is approved: Hi, I'm Nidhi. I build AI that asks before it acts.">
+<style>
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+  .sf{font-family:Georgia,'Times New Roman',serif}
+  .t{font-size:14px;fill:#E9E4D8}.mu{fill:#8494AD}.am{fill:#F2B45A}.gr{fill:#7BD3A0}.cr{fill:#F6EFE2}
+  .chip{fill:#1E2C46;stroke:#2C3E60}
+  .l{animation:in .3s ease-out both}
+  .l1{animation-delay:.3s}.l2{animation-delay:1s}.l3{animation-delay:1.7s}.l4{animation-delay:2.3s}.l5{animation-delay:2.9s}
+  .l6{animation-delay:3.6s}.l7{animation-delay:4.3s}.l8{animation-delay:6.2s}
+  @keyframes in{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+  .btn{animation:press .25s ease-in 5.7s both}
+  @keyframes press{from{fill:#2A3A58}to{fill:#F2B45A}}
+  .btxt{animation:btxt .25s ease-in 5.7s both}
+  @keyframes btxt{from{fill:#F2B45A}to{fill:#0E1726}}
+  .cursor{animation:move 1.2s ease-in-out 4.6s both}
+  @keyframes move{from{transform:translate(120px,70px);opacity:0}30%{opacity:1}to{transform:translate(0,0);opacity:1}}
+  @media (prefers-reduced-motion:reduce){.l,.btn,.btxt,.cursor{animation:none}}
+</style>
+<rect width="900" height="420" rx="16" fill="#0E1726"/>
+<rect width="900" height="40" rx="16" fill="#142036"/><rect y="24" width="900" height="16" fill="#142036"/>
+<g class="m" font-size="13" xml:space="preserve">
+  <text x="24" y="25" class="am" font-weight="700">nidhi.agent</text>
+  <text x="128" y="25" class="mu">session · mumbai · tools: 412 available</text>
+  <text x="876" y="25" class="mu" text-anchor="end">every claim needs a source</text>
+</g>
+<g class="m t" xml:space="preserve">
+  <text x="32" y="82" class="l l1"><tspan class="am">›</tspan> task  <tspan class="cr">"introduce Nidhi Maru"</tspan></text>
+  <text x="32" y="112" class="l l2"><tspan class="mu">  retrieving tools ............. 412 available → 3 loaded</tspan></text>
+  <g class="l l3"><text x="32" y="146"><tspan class="gr">  ✓</tspan> read_profile      Computer Engineering · DJ Sanghvi</text>
+    <rect x="690" y="130" width="172" height="22" rx="11" class="chip"/><text x="776" y="146" text-anchor="middle" class="am" font-size="12">src · LinkedIn ✓</text></g>
+  <g class="l l4"><text x="32" y="178"><tspan class="gr">  ✓</tspan> read_projects     Setu · IntelliView · TripWise</text>
+    <rect x="690" y="162" width="172" height="22" rx="11" class="chip"/><text x="776" y="178" text-anchor="middle" class="am" font-size="12">src · GitHub ✓</text></g>
+  <g class="l l5"><text x="32" y="210"><tspan class="gr">  ✓</tspan> read_principles   "AI should ask before it acts"</text>
+    <rect x="690" y="194" width="172" height="22" rx="11" class="chip"/><text x="776" y="210" text-anchor="middle" class="am" font-size="12">src · her code ✓</text></g>
+  <text x="32" y="246" class="l l6"><tspan class="am">  ⚠</tspan> write_first_impression <tspan class="mu"> this changes how you see her</tspan></text>
+</g>
+<g class="l l7">
+  <rect x="56" y="266" width="600" height="58" rx="10" fill="#142036" stroke="#F2B45A" stroke-opacity=".55"/>
+  <text x="78" y="300" class="m cr" font-size="14">Confirm action?</text>
+  <rect x="430" y="280" width="106" height="30" rx="8" class="btn" fill="#2A3A58"/><text x="483" y="300" text-anchor="middle" class="m btxt am" font-size="13" font-weight="700">Approve</text>
+  <rect x="548" y="280" width="92" height="30" rx="8" fill="none" stroke="#2C3E60"/><text x="594" y="300" text-anchor="middle" class="m mu" font-size="13">Cancel</text>
+  <path class="cursor" d="M500 296 l0 18 l5 -5 l4 9 l3 -1.5 l-4 -9 l7 0 Z" fill="#F6EFE2" stroke="#0E1726" stroke-width="1"/>
+</g>
+<g class="l l8">
+  <text x="32" y="360" class="m t"><tspan class="gr">  ✓ approved</tspan></text>
+  <text x="152" y="362" class="sf cr" font-size="24">Hi, I’m Nidhi. I build AI that asks before it acts.</text>
+  <text x="152" y="390" class="m mu" font-size="12.5">AI + full-stack engineer · UX · DJ Sanghvi, Mumbai</text>
+</g>
+</svg>

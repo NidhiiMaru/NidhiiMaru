@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-label="Screening report for Nidhi Maru: strong yes. Strengths with evidence: agent tooling at scale (400+ MCP tools, Engaze), safety-first writes (confirmation cards, Engaze), finds what others miss (closed an unassigned IDOR, Engaze), tests, not vibes (121 unit tests, Engaze), design sense (Best UI/UX, 800+ teams). Concerns raised by the candidate: will ask for your source in code review; will add a confirmation step to your coffee order.">
+<style>
+  .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+  .sf{font-family:Georgia,'Times New Roman',serif}
+  .ink{fill:#14213D}.mu{fill:#5E6B82}.am{fill:#B9781F}.gr{fill:#2E8B57}
+  .chip{fill:#F6E7C8;stroke:#E2C68E}
+  .r{animation:in .35s ease-out both}
+  .r1{animation-delay:.2s}.r2{animation-delay:.45s}.r3{animation-delay:.7s}.r4{animation-delay:.95s}.r5{animation-delay:1.2s}.r6{animation-delay:1.6s}
+  @keyframes in{from{opacity:0}to{opacity:1}}
+  .stamp{animation:stamp .35s cubic-bezier(.3,1.6,.6,1) 2s both;transform-origin:770px 92px}
+  @keyframes stamp{from{opacity:0;transform:scale(1.6) rotate(-14deg)}to{opacity:.9;transform:scale(1) rotate(-8deg)}}
+  @media (prefers-reduced-motion:reduce){.r,.stamp{animation:none}}
+</style>
+<rect width="900" height="500" rx="16" fill="#F8F3EA"/>
+<rect x="0" y="0" width="900" height="8" rx="4" fill="#14213D"/>
+<text x="40" y="54" class="sf ink" font-size="26">Screening report</text>
+<text x="40" y="78" class="m mu" font-size="12">format borrowed from IntelliView, the AI interviewer she helped build</text>
+<g class="m" font-size="13">
+  <text x="40" y="112" class="mu">CANDIDATE</text><text x="140" y="112" class="ink" font-weight="700">Nidhi Maru</text>
+  <text x="330" y="112" class="mu">ROLE</text><text x="380" y="112" class="ink">AI / full-stack engineer</text>
+  <text x="40" y="136" class="mu">VERDICT</text><text x="140" y="136" class="gr" font-weight="700">● strong yes</text>
+</g>
+<g class="stamp"><rect x="690" y="66" width="160" height="52" rx="8" fill="none" stroke="#2E8B57" stroke-width="3"/>
+  <text x="770" y="100" text-anchor="middle" class="m gr" font-size="18" font-weight="700">VERIFIED</text></g>
+<line x1="40" y1="158" x2="860" y2="158" stroke="#E1D8C6"/>
+<text x="40" y="186" class="m mu" font-size="12" letter-spacing="1.5">STRENGTHS · EACH WITH EVIDENCE</text>
+<g class="m" font-size="14">
+  <g class="r r1"><text x="40" y="218" class="ink" font-weight="700">Agent tooling at scale</text><text x="270" y="218" class="mu">one agent, 400+ MCP tools, deferred loading</text>
+    <rect x="742" y="203" width="118" height="22" rx="11" class="chip"/><text x="801" y="218" text-anchor="middle" class="am" font-size="12">Engaze ✓</text></g>
+  <g class="r r2"><text x="40" y="252" class="ink" font-weight="700">Safety-first writes</text><text x="270" y="252" class="mu">confirmation card before every state change</text>
+    <rect x="742" y="237" width="118" height="22" rx="11" class="chip"/><text x="801" y="252" text-anchor="middle" class="am" font-size="12">Engaze ✓</text></g>
+  <g class="r r3"><text x="40" y="286" class="ink" font-weight="700">Finds what others miss</text><text x="270" y="286" class="mu">closed an IDOR nobody had assigned her</text>
+    <rect x="742" y="271" width="118" height="22" rx="11" class="chip"/><text x="801" y="286" text-anchor="middle" class="am" font-size="12">Engaze ✓</text></g>
+  <g class="r r4"><text x="40" y="320" class="ink" font-weight="700">Tests, not vibes</text><text x="270" y="320" class="mu">121 unit tests for the assistant services</text>
+    <rect x="742" y="305" width="118" height="22" rx="11" class="chip"/><text x="801" y="320" text-anchor="middle" class="am" font-size="12">Engaze ✓</text></g>
+  <g class="r r5"><text x="40" y="354" class="ink" font-weight="700">Design sense</text><text x="270" y="354" class="mu">Best UI/UX among 800+ teams</text>
+    <rect x="742" y="339" width="118" height="22" rx="11" class="chip"/><text x="801" y="354" text-anchor="middle" class="am" font-size="12">SPIT Hacks ✓</text></g>
+</g>
+<line x1="40" y1="382" x2="860" y2="382" stroke="#E1D8C6"/>
+<g class="r r6 m" font-size="14">
+  <text x="40" y="410" class="mu" font-size="12" letter-spacing="1.5">CONCERNS · RAISED BY THE CANDIDATE HERSELF</text>
+  <text x="40" y="440" class="ink">• will ask “what’s your source?” in code review</text>
+  <text x="40" y="466" class="ink">• will add a confirmation step to your coffee order</text>
+</g>
+</svg>

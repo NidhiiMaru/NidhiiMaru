@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="150" viewBox="0 0 440 150" role="img" aria-label="TripWise: one negotiated itinerary for the whole group; mobile lobby · AI itinerary panel">
+<style>.sf{font-family:Georgia,'Times New Roman',serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.c{animation:in .45s ease-out 0.24s both}@keyframes in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.c{animation:none}}</style>
+<g class="c"><rect x="2" y="2" width="436" height="146" rx="14" fill="#0E1726" stroke="#2C3E60" stroke-width="1.5"/>
+<text x="24" y="44" class="sf" font-size="22" fill="#F6EFE2">TripWise</text>
+<text x="24" y="66" class="m" font-size="12" fill="#F2B45A">with a team of 3</text>
+<text x="24" y="98" class="m" font-size="12.5" fill="#C9CFDB">one negotiated itinerary for the whole group</text>
+<text x="24" y="120" class="m" font-size="12.5" fill="#8494AD">multi-agent negotiation · expense settlement</text>
+<rect x="302" y="26" width="112" height="24" rx="12" fill="#1E2C46" stroke="#2C3E60"/>
+<text x="358.0" y="42" class="m" font-size="11.5" fill="#7BD3A0" text-anchor="middle">src · live ✓</text></g>
+</svg>

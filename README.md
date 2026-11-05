@@ -1,7 +1,7 @@
 <!-- GitHub profile README. Graphics are self-hosted SVGs in assets/ and respect prefers-reduced-motion. -->
 
 <p align="center">
-  <a href="https://nidhimaru.vercel.app"><img src="./assets/agent.svg" width="100%" alt="nidhi.agent loads 3 of 412 tools, cites sources, asks for confirmation, then says: Hi, I'm Nidhi. I build AI that asks before it acts." /></a>
+  <a href="https://nidhimaru.vercel.app"><img src="./assets/agent.svg" width="100%" alt="nidhi.agent loads 3 of 412 tools, cites sources, asks for confirmation, then says: Hi, I am Nidhi, a full-stack AI engineer who builds production software, from backend and security to AI and design." /></a>
 </p>
 
 I'm **Nidhi**, a Computer Engineering student at **DJ Sanghvi, Mumbai**, and I build AI that people can actually trust inside real products.

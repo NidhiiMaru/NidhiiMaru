@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="nidhi.agent console: it loads 3 of 412 tools, reads Nidhi's profile, projects and principles with sources, asks for confirmation before writing her introduction, and is approved: Hi, I'm Nidhi. I build AI that asks before it acts.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="nidhi.agent console: it loads 3 of 412 tools, reads Nidhi's profile, projects and principles with sources, asks for confirmation before writing her introduction, and is approved: Hi, I am Nidhi, a full-stack AI engineer who builds production software, from backend and security to AI and design.">
 <style>
   .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
   .sf{font-family:Georgia,'Times New Roman',serif}
@@ -43,7 +43,8 @@
 </g>
 <g class="l l8">
   <text x="32" y="360" class="m t"><tspan class="gr">  ✓ approved</tspan></text>
-  <text x="152" y="362" class="sf cr" font-size="24">Hi, I’m Nidhi. I build AI that asks before it acts.</text>
-  <text x="152" y="390" class="m mu" font-size="12.5">AI + full-stack engineer · UX · DJ Sanghvi, Mumbai</text>
+  <text x="152" y="356" class="sf cr" font-size="24">Hi, I am Nidhi, a full-stack AI engineer</text>
+  <text x="152" y="382" class="sf cr" font-size="17">who builds production software, from backend and security to AI and design.</text>
+  <text x="152" y="405" class="m mu" font-size="12.5">DJ Sanghvi, Mumbai · Co-founder, SN Works</text>
 </g>
 </svg>

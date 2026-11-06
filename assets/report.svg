@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-label="Screening report for Nidhi Maru: strong yes. Strengths with evidence: agent tooling at scale (400+ MCP tools, Engaze), safety-first writes (confirmation cards, Engaze), finds what others miss (closed an unassigned IDOR, Engaze), tests, not vibes (121 unit tests, Engaze), design sense (Best UI/UX, 800+ teams). Concerns raised by the candidate: will ask for your source in code review; will add a confirmation step to your coffee order.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500" role="img" aria-label="Screening report for Nidhi Maru: strong yes. Strengths with evidence: agent tooling at scale (200+ MCP tools, Engaze), safety-first writes (confirmation cards, Engaze), finds what others miss (closed an unassigned IDOR, Engaze), tests, not vibes (121 unit tests, Engaze), design sense (Best UI/UX, 800+ teams). Concerns raised by the candidate: will ask for your source in code review; will add a confirmation step to your coffee order.">
 <style>
   .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
   .sf{font-family:Georgia,'Times New Roman',serif}
@@ -25,7 +25,7 @@
 <line x1="40" y1="158" x2="860" y2="158" stroke="#E1D8C6"/>
 <text x="40" y="186" class="m mu" font-size="12" letter-spacing="1.5">STRENGTHS · EACH WITH EVIDENCE</text>
 <g class="m" font-size="14">
-  <g class="r r1"><text x="40" y="218" class="ink" font-weight="700">Agent tooling at scale</text><text x="270" y="218" class="mu">one agent, 400+ MCP tools, deferred loading</text>
+  <g class="r r1"><text x="40" y="218" class="ink" font-weight="700">Agent tooling at scale</text><text x="270" y="218" class="mu">one agent, 200+ MCP tools, deferred loading</text>
     <rect x="742" y="203" width="118" height="22" rx="11" class="chip"/><text x="801" y="218" text-anchor="middle" class="am" font-size="12">Engaze ✓</text></g>
   <g class="r r2"><text x="40" y="252" class="ink" font-weight="700">Safety-first writes</text><text x="270" y="252" class="mu">confirmation card before every state change</text>
     <rect x="742" y="237" width="118" height="22" rx="11" class="chip"/><text x="801" y="252" text-anchor="middle" class="am" font-size="12">Engaze ✓</text></g>

@@ -1,11 +1,11 @@
 <!-- GitHub profile README. Graphics are self-hosted SVGs in assets/ and respect prefers-reduced-motion. -->
 
 <p align="center">
-  <a href="https://nidhimaru.vercel.app"><img src="./assets/agent.svg" width="100%" alt="nidhi.agent loads 3 of 412 tools, cites sources, asks for confirmation, then says: Hi, I am Nidhi, a full-stack AI engineer who builds production software, from backend and security to AI and design." /></a>
+  <a href="https://nidhimaru.vercel.app"><img src="./assets/agent.svg" width="100%" alt="nidhi.agent loads 3 of 200+ tools, cites sources, asks for confirmation, then says: Hi, I am Nidhi, a full-stack AI engineer who builds production software, from backend and security to AI and design." /></a>
 </p>
 
 I'm **Nidhi**, a Computer Engineering student at **DJ Sanghvi, Mumbai**, and I build AI that people can actually trust inside real products.
-At Engaze I built the assistant that works inside a production college ERP. It picks the right tool from **400+ MCP tools** without loading
+At Engaze I built the assistant that works inside a production college ERP. It picks the right tool from **200+ MCP tools** without loading
 them all into context, and **nothing changes until a person confirms it**. Along the way I closed an IDOR on placement routes that nobody
 had assigned me, built an RBAC-first, ABAC-fallback access matrix, and wrote **121 tests** for the assistant services, because "it worked on my prompt" isn't a test.
 

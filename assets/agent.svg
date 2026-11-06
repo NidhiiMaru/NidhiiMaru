@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="nidhi.agent console: it loads 3 of 412 tools, reads Nidhi's profile, projects and principles with sources, asks for confirmation before writing her introduction, and is approved: Hi, I am Nidhi, a full-stack AI engineer who builds production software, from backend and security to AI and design.">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-label="nidhi.agent console: it loads 3 of 412 tools, reads Nidhi's profile, projects and principles with sources, asks for confirmation before writing her introduction, and is approved: Hi, I am Nidhi, a full-stack AI engineer who builds production software, from backend and security to AI and design.">
 <style>
   .m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
   .sf{font-family:Georgia,'Times New Roman',serif}
@@ -16,7 +16,7 @@
   @keyframes move{from{transform:translate(120px,70px);opacity:0}30%{opacity:1}to{transform:translate(0,0);opacity:1}}
   @media (prefers-reduced-motion:reduce){.l,.btn,.btxt,.cursor{animation:none}}
 </style>
-<rect width="900" height="420" rx="16" fill="#0E1726"/>
+<rect width="900" height="480" rx="16" fill="#0E1726"/>
 <rect width="900" height="40" rx="16" fill="#142036"/><rect y="24" width="900" height="16" fill="#142036"/>
 <g class="m" font-size="13" xml:space="preserve">
   <text x="24" y="25" class="am" font-weight="700">nidhi.agent</text>
@@ -42,9 +42,9 @@
   <path class="cursor" d="M500 296 l0 18 l5 -5 l4 9 l3 -1.5 l-4 -9 l7 0 Z" fill="#F6EFE2" stroke="#0E1726" stroke-width="1"/>
 </g>
 <g class="l l8">
-  <text x="32" y="360" class="m t"><tspan class="gr">  ✓ approved</tspan></text>
-  <text x="152" y="356" class="sf cr" font-size="24">Hi, I am Nidhi, a full-stack AI engineer</text>
-  <text x="152" y="382" class="sf cr" font-size="17">who builds production software, from backend and security to AI and design.</text>
-  <text x="152" y="405" class="m mu" font-size="12.5">DJ Sanghvi, Mumbai · Co-founder, SN Works</text>
+  <text x="32" y="384" class="m t"><tspan class="gr">  ✓ approved</tspan></text>
+  <text x="152" y="384" class="sf cr" font-size="24">Hi, I am Nidhi, a full-stack AI engineer</text>
+  <text x="152" y="416" class="sf cr" font-size="17">who builds production software, from backend and security to AI and design.</text>
+  <text x="152" y="446" class="m mu" font-size="12.5">DJ Sanghvi, Mumbai · Co-founder, SN Works</text>
 </g>
 </svg>

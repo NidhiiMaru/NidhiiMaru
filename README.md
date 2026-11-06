@@ -18,7 +18,7 @@ had assigned me, built an RBAC-first, ABAC-fallback access matrix, and wrote **1
 <p align="center">
   <img src="./assets/card-setu.svg" width="49%" alt="Setu, Claude Impact Lab: AI lost-and-found across 10 Kumbh centres, CCTV re-ID search from about 117 s to under 1 s" />
   <a href="https://github.com/PrerakGada/intelliview"><img src="./assets/card-intelliview.svg" width="49%" alt="IntelliView: an AI interviewer that turns a candidate's own repos into interview questions" /></a>
-  <a href="https://tripwise.prerakgada.in"><img src="./assets/card-tripwise.svg" width="49%" alt="TripWise: one negotiated itinerary for the whole group" /></a>
+  <a href="https://tripwise.engaze.in"><img src="./assets/card-tripwise.svg" width="49%" alt="TripWise: one negotiated itinerary for the whole group" /></a>
   <a href="https://github.com/Soham-Prajapati/hindsight"><img src="./assets/card-hindsight.svg" width="49%" alt="Hindsight: an incident-memory copilot" /></a>
   <a href="https://trail-sync-nine.vercel.app"><img src="./assets/card-trailsync.svg" width="49%" alt="TrailSync, 3rd place at Pixel Perfect: 3D elevated flight paths on Mapbox terrain" /></a>
   <a href="https://nidhimaru.vercel.app"><img src="./assets/card-portfolio.svg" width="49%" alt="Portfolio: nidhimaru.vercel.app" /></a>
@@ -65,5 +65,5 @@ had assigned me, built an RBAC-first, ABAC-fallback access matrix, and wrote **1
   <a href="https://www.linkedin.com/in/nidhimaru/">LinkedIn</a> ·
   <a href="mailto:nidhimaru19@gmail.com">nidhimaru19@gmail.com</a>
 </p>
-<!-- TODO: link "SN Works" to the studio site once it is live -->
+<!-- TODO: link "SN Works" to the SN Works site once it is live -->
 <p align="center"><sub>my SN Works co-founder and hackathon teammate, who names everything after soup → <a href="https://github.com/Soham-Prajapati"><b>@Soham-Prajapati</b></a></sub></p>
